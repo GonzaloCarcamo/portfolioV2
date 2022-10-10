@@ -58,6 +58,10 @@ a {
     border: none;
 }
 
+.card a {
+    color: rgb(230, 230, 230);
+}
+
 .card-body {
     height: 110px;
     display: flex;

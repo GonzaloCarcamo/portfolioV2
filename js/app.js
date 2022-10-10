@@ -1,6 +1,6 @@
 const list = [
     {
-        title: 'Primera App', 
+        title: 'GifsApp', 
         github: 'https://github.com/GonzaloCarcamo/E_Angular_01', 
         web: 'https://eclectic-caramel-970d3d.netlify.app/', 
         hash: 'angular'
