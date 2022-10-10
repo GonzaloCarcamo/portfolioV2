@@ -1,11 +1,10 @@
 const list = [
-    {title: 'Primera App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Segunda App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Tercera App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Cuarta App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Quinta App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Sexta App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'angular'},
-    {title: 'Séptima App', github: 'https://www.github.com', web: 'https://www.google.cl', hash: 'javascript'}
+    {
+        title: 'Primera App', 
+        github: 'https://github.com/GonzaloCarcamo/E_Angular_01', 
+        web: 'https://eclectic-caramel-970d3d.netlify.app/', 
+        hash: 'angular'
+    },
 ]
 
 const angularLogo = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png'
